@@ -1,0 +1,25 @@
+Reservation:
+- email
+- contact
+- date entrée
+- heure entrée
+- date sortie
+- heure sortie
+- nb adulte
+- nb enfant
+- idChambre
+- remarque
+
+Chambre:
+- idChambre
+- description
+- prix
+
+Menu:
+- idMenu
+- nom
+- Ingredients
+
+Categorie:
+- idCategorie
+- libele
